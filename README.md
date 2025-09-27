@@ -1,7 +1,7 @@
 # Learning Dashboard
 A Streamlit web app to track learning progress and revision
 
-## Features include
+## Features included
 - Add a course and paste lessons (one per line)
 - Mark lessons as **Completed** or **Needs Revision**
 - Add quick notes for what clicked
@@ -15,10 +15,10 @@ A Streamlit web app to track learning progress and revision
 ## Screenshots
 
 ### Course & Lessons
-<img src="image 3.JPG" alt="Progress and charts" width="500"/>
+<img src="image 3.JPG" alt="Course & Lessons" width="500"/>
 
 ### Checklist and Notes
-<img src="Image 1.JPG" alt="Progress and charts" width="500"/>
+<img src="Image 1.JPG" alt="Checklist and Notes" width="500"/>
 
 ### Progress Pie chart
-<img src="image2.JPG" alt="Progress and charts" width="500"/>
+<img src="image2.JPG" alt="Progress Pie chart" width="500"/>
